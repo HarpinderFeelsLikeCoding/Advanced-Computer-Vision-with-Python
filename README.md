@@ -5,4 +5,4 @@ if you want to do it too:
 download cv2 and mediapipe
 
 Youtube video:
-26:58
+31:00
